@@ -1,7 +1,7 @@
 <h1 align="center">Hi <a href="#"><img src="https://user-images.githubusercontent.com/66797449/153720384-ebe4addc-2296-4b09-905c-28d7752315f1.gif" width="30"></a>, I'm Shahar</h1>
 <h3 align="center">I'm a Full Stack Web Developer and Software Engineering </h3>
 
-## 👨‍🎓 About Me
+## 👩‍💻 About Me
 
 -   🔭 I work as a **Full Stack Web Developer** at **Defence Industry**.
 -   🌎 I'm living in Israel.
@@ -25,6 +25,9 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## 🔧 Tools
 
@@ -39,5 +42,5 @@
 
 ## 📞 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahar19966/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahar-shushan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahar19966@gmail.com)
